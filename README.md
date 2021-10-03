@@ -7,7 +7,7 @@ Puppeteer meetup examples
 First clone repository
 
 ```bash
-git clone https://github.com/jerryosorio2/puppeteerMeetup.git
+git clone https://github.com/jerryosorio2/jestMeetup.git
 ```
 
 Install packages
