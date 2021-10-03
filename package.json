@@ -1,0 +1,24 @@
+{
+	"name": "jestmeetup",
+	"version": "1.0.0",
+	"description": "Puppeteer meetup examples",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jerryosorio2/jestMeetup.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jerryosorio2/jestMeetup/issues"
+	},
+	"homepage": "https://github.com/jerryosorio2/jestMeetup#readme",
+	"dependencies": {
+		"@babel/preset-env": "^7.15.6",
+		"jest": "^27.2.1"
+	}
+}
