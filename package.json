@@ -4,7 +4,9 @@
 	"description": "Puppeteer meetup examples",
 	"main": "index.js",
 	"scripts": {
-		"test": "jest"
+		"test": "jest",
+		"testCalculators": "jest calculator.test.js",
+		"test:coverage": "jest --coverage"
 	},
 	"type": "module",
 	"repository": {
