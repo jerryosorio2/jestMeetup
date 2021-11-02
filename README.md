@@ -1,6 +1,6 @@
-# Puppeteer meetup
+# Jest meetup
 
-Puppeteer meetup examples
+Jest meetup examples
 
 ## Installation
 
